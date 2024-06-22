@@ -21,3 +21,5 @@ Copyright 2009–2024 by Codility Limited. All Rights Reserved. Unauthorized cop
 ```
 正の整数DがN = D * M<br>
 
+![image](https://github.com/Shinichi0713/codility_CountFactors/assets/61480734/cc45e732-57f2-4420-96cd-5ee0e75fda43)
+
